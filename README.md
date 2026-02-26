@@ -26,7 +26,7 @@ The goal of this project was to practice:
 
 ## 🚀 Live Demo
 
-🔗 **Live Preview:** gym-website-clone-making.vercel.app
+🔗 **Live Preview:** *(https://gym-website-clone-making.vercel.app/)
 
 ---
 
