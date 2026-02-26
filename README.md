@@ -91,7 +91,7 @@ Through this project, I improved my understanding of:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/gym-website-clone.git
+git clone https://github.com/ronaktodwal37/Gym-website-clone-making.git
 ```
 
 Navigate to project folder:
@@ -134,7 +134,7 @@ If you'd like to contribute:
 
 **Ronak Todwal**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* GitHub: [https://github.com/your-username](https://github.com/ronaktodwal37)
 
 
 ---
