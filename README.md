@@ -26,7 +26,7 @@ The goal of this project was to practice:
 
 ## 🚀 Live Demo
 
-🔗 **Live Preview:** *(Add your deployment link here – GitHub Pages / Netlify / Vercel)*
+🔗 **Live Preview:** gym-website-clone-making.vercel.app
 
 ---
 
