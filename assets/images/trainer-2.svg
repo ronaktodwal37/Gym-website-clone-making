@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#0f0f0f"/>
+  <!-- head -->
+  <circle cx="200" cy="120" r="70" fill="#1a1a1a" stroke="#00e5ff" stroke-width="6"/>
+  <!-- eyes -->
+  <circle cx="175" cy="110" r="7" fill="#fff" opacity="0.95"/>
+  <circle cx="225" cy="110" r="7" fill="#fff" opacity="0.95"/>
+  <!-- smile -->
+  <path d="M170 140 Q200 160 230 140" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- body block -->
+  <rect x="70" y="210" width="260" height="120" rx="18" fill="#1a1a1a" stroke="#222"/>
+  <text x="200" y="260" font-family="Outfit, sans-serif" font-size="22" fill="#fff" text-anchor="middle">Sofia Martinez</text>
+</svg>

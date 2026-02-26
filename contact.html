@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact us today to start your fitness journey at Iron Peak Gym.">
+    <title>Contact | IRON PEAK GYM</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Outfit:wght@400;700;900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body class="subpage">
+    <header id="header">
+        <nav class="navbar">
+            <div class="logo">IRON<span>PEAK</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <a href="join.html" class="cta-btn small">Join Now</a>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-banner">
+            <h1>GET IN <span>TOUCH</span></h1>
+        </section>
+
+        <section id="contact" class="contact">
+            <div class="contact-container">
+                <aside class="contact-info">
+                    <h3 class="section-title" style="font-size:2rem;">Let's get you started</h3>
+                    <p style="color:var(--text-muted);">Have a question about membership, personal training, or classes? Fill the form and our team will get back to you within 24 hours. Prefer a direct call? Use the phone number below.</p>
+
+                    <div class="info-list">
+                        <div class="info-item"><strong>Location:</strong> 33 Middle Winchendon Rd, Rindge, NH 03461</div>
+                        <div class="info-item"><strong>Phone:</strong> <a href="tel:+1125711811" class="text-link">(125) 711-811</a></div>
+                        <div class="info-item"><strong>Email:</strong> <a href="mailto:Support.gymcenter@gmail.com" class="text-link">Support.gymcenter@gmail.com</a></div>
+                    </div>
+
+                    <div class="working-hours">
+                        <h4>Working Hours</h4>
+                        <p>Mon - Fri: 5:00 AM - 11:00 PM</p>
+                        <p>Sat - Sun: 7:00 AM - 9:00 PM</p>
+                    </div>
+
+                    <div style="margin-top:1.5rem;">
+                        <a href="join.html" class="cta-btn">Become a Member</a>
+                        <a href="services.html" class="cta-btn secondary" style="margin-left:0.7rem;">View Services</a>
+                    </div>
+                </aside>
+
+                <form class="contact-form" action="#" method="post" novalidate>
+                    <div class="form-row">
+                        <label class="form-group">
+                            <span class="label">Full name</span>
+                            <input type="text" name="name" placeholder="Jane Doe" required>
+                        </label>
+                        <label class="form-group">
+                            <span class="label">Email</span>
+                            <input type="email" name="email" placeholder="you@example.com" required>
+                        </label>
+                    </div>
+
+                    <div class="form-row">
+                        <label class="form-group">
+                            <span class="label">Phone (optional)</span>
+                            <input type="tel" name="phone" placeholder="(123) 456-7890">
+                        </label>
+                        <label class="form-group">
+                            <span class="label">Subject</span>
+                            <select name="subject" class="contact-subject" required>
+                                <option value="general">General inquiry</option>
+                                <option value="membership">Membership</option>
+                                <option value="training">Personal training</option>
+                                <option value="classes">Group classes</option>
+                            </select>
+                        </label>
+                    </div>
+
+                    <label class="form-group">
+                        <span class="label">Message</span>
+                        <textarea name="message" rows="6" placeholder="Tell us about your goals or question..." required></textarea>
+                    </label>
+
+                    <div class="form-row" style="align-items:center;">
+                        <label class="checkbox-group"><input type="checkbox" name="subscribe"> Subscribe to updates & offers</label>
+                        <div style="margin-left:auto; color:var(--text-muted); font-size:0.9rem;">We reply within 24 hours.</div>
+                    </div>
+
+                    <div style="display:flex; gap:0.75rem; margin-top:1rem;">
+                        <button type="submit" class="cta-btn">Send Message</button>
+                        <button type="reset" class="cta-btn secondary">Reset</button>
+                    </div>
+
+                    <div class="form-success" role="status" aria-live="polite" style="display:none; margin-top:1rem; color:var(--primary);">Thanks — your message has been received.</div>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">IRON<span>PEAK</span></div>
+            <p>&copy; 2026 IRON PEAK GYM. All rights reserved.</p>
+            <div class="socials">
+                <a href="#">IG</a>
+                <a href="#">FB</a>
+                <a href="#">TW</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
