@@ -97,7 +97,7 @@ git clone https://github.com/your-username/gym-website-clone.git
 Navigate to project folder:
 
 ```bash
-cd gym-website-clone
+cd Gym-website-clone-making
 ```
 
 Open `index.html` in your browser.
@@ -135,7 +135,7 @@ If you'd like to contribute:
 **Ronak Todwal**
 
 * GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: (Add your LinkedIn profile)
+
 
 ---
 
@@ -145,11 +145,3 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-If you want, I can now create:
-
-* 🏆 **Resume-ready project description (2–3 lines for interviews)**
-* 📄 **Short LinkedIn project post**
-* 🔥 Portfolio description**
-* 🧠 Interview questions based on this project**
-
-Tell me what you need next 💪
