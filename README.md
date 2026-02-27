@@ -134,7 +134,7 @@ If you'd like to contribute:
 
 **Ronak Todwal**
 
-* GitHub: [https://github.com/your-username](https://github.com/ronaktodwal37)
+* GitHub: [https://github.com/ronaktodwal37](https://github.com/ronaktodwal37)
 
 
 ---
