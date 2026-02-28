@@ -104,7 +104,7 @@ Open `index.html` in your browser.
 
 ---
 
-## 📌 Future Enhancements
+## 📌 Future Enhancements in this project 
 
 * Add backend for contact form (Node.js / PHP)
 * Add membership login system
