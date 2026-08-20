@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Mobile menu toggle (placeholder for actual functionality)
     const hamburger = document.querySelector('.hamburger');
     hamburger.addEventListener('click', () => {
-        alert('Mobile menu clicked! In a full implementation, this would toggle a sidebar.');
+        // alert('Mobile menu clicked! In a full implementation, this would toggle a sidebar.');
     });
 
     // Smooth scroll for hash links only
