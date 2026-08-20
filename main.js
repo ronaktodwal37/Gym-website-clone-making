@@ -36,9 +36,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Simple scroll animation observer
-    // const observerOptions = {
-    //     threshold: 0.1
-    // };
+    const observerOptions = {
+        threshold: 0.1
+    };
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
