@@ -54,10 +54,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Video Modal Logic (supports multiple play buttons using data-video)
-    // const videoModal = document.getElementById('videoModal');
-    // const playBtns = document.querySelectorAll('.play-btn');
-    // const closeModal = document.querySelector('.close-modal');
-    // const yogaVideo = document.getElementById('yogaVideo');
+    const videoModal = document.getElementById('videoModal');
+    const playBtns = document.querySelectorAll('.play-btn');
+    const closeModal = document.querySelector('.close-modal');
+    const yogaVideo = document.getElementById('yogaVideo');
 
     const hideModal = () => {
         if (!videoModal) return;
