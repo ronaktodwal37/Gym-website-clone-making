@@ -49,7 +49,7 @@ The goal of this project was to practice:
 * Services / Training Programs section
 * Trainer showcase section
 * Pricing plans section
-* Contact form UI
+* 
 * Footer with social links
 * Clean and modular code structure
 
