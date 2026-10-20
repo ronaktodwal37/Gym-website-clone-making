@@ -47,7 +47,7 @@ The goal of this project was to practice:
 * Smooth scrolling
 * Hero section with CTA button
 * Services / Training Programs section
-* 
+* Trainer showcase section view
 * Pricing plans section
 * Contact Form UI
 * Footer with social links
