@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // header.style.padding = '0.5rem 0';
         } else {
             // header.style.background = 'rgba(10, 10, 10, 0.8)';
-            header.style.padding = '0';
+            // header.style.padding = '0';
         }
     });
 
