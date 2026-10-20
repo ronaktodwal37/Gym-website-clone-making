@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const header = document.getElementById('header');
     window.addEventListener('scroll', () => {
         if (window.scrollY > 50) {
-            header.style.background = 'rgba(5, 5, 5, 0.95)';
+            // header.style.background = 'rgba(5, 5, 5, 0.95)';
             header.style.padding = '0.5rem 0';
         } else {
             header.style.background = 'rgba(10, 10, 10, 0.8)';
